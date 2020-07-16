@@ -65,7 +65,7 @@
   </dependencies>
 
   <scm>
-    <developerConnection>scm:svn:https://github.com/Weenadhi/User-management-mvn.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/Weenadhi/User-management-mvn.git</developerConnection>
     <tag>User-management-1.0</tag>
   </scm>
       
