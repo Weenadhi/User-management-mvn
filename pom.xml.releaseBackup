@@ -226,7 +226,6 @@
         <version>2.5.2</version>
           <configuration>
           <tagBase>https://github.com/Weenadhi/User-management-mvn.git</tagBase>
-            <releaseProfiles>release</releaseProfiles>
         </configuration>
         </plugin>
 
