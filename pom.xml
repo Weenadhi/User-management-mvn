@@ -14,7 +14,7 @@
   <artifactId>User-management</artifactId>
       
   
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
       
   
   <name>User-management</name>
@@ -65,7 +65,7 @@
   </dependencies>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/Weenadhi/User-management-mvn.git</developerConnection>
+    <developerConnection>scm:svn:https://github.com/Weenadhi/User-management-mvn.git</developerConnection>
     <tag>User-management-1.0</tag>
   </scm>
       
