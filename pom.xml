@@ -65,7 +65,7 @@
   </dependencies>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/Weenadhi/User-management-mvn.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:Weenadhi/User-management-mvn.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
       
@@ -225,7 +225,7 @@
         <artifactId>maven-release-plugin</artifactId>
         <version>2.5.2</version>
           <configuration>
-          <tagBase>https://github.com/Weenadhi/User-management-mvn.git</tagBase>
+          <tagBase>git@github.com:Weenadhi/User-management-mvn.git</tagBase>
         </configuration>
         </plugin>
 
